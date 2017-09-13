@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
-
-### More Information
+###Some information about me!
 
 I really like pizza!
