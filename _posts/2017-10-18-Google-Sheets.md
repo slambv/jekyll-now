@@ -12,4 +12,4 @@ published: true
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTz-s8uyyLH8D0UATqoRwXE4YN7DbSac_fQWyTGdTB_CRbIhIZHrVwQklmNVTpMhKUbcm572ss_ZL2l/pubhtml?widget=true&amp;headers=false"></iframe>
 
-If the embedded widget is hard to navigate, follow this internet yellow brick road <https://docs.google.com/spreadsheets/d/e/2PACX-1vTz-s8uyyLH8D0UATqoRwXE4YN7DbSac_fQWyTGdTB_CRbIhIZHrVwQklmNVTpMhKUbcm572ss_ZL2l/pubhtml>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTz-s8uyyLH8D0UATqoRwXE4YN7DbSac_fQWyTGdTB_CRbIhIZHrVwQklmNVTpMhKUbcm572ss_ZL2l/pub?output=pdf">If the embedded widget is hard to navigate, follow this internet yellow brick road!</a> 
